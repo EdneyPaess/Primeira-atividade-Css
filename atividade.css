@@ -1,0 +1,59 @@
+
+.text-center{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 70;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.sub{
+    font-family: 'Mingzat', sans-serif;
+    font-size: 12px;
+    color: black;
+    font-weight: 100;
+    
+    
+}
+
+.color-blue{
+    color: #1663f3da;
+    font-weight: 600px;
+    
+    
+    
+}
+
+.clique{
+    color: #1663f3da;
+}
+
+.title-main{
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+    
+
+}
+
+.background-blue{
+    background-color: #1663f3da;
+    color: rgb(255, 255, 255);
+    font-family: 'Mingzat', sans-serif;
+    font-size: 15px;
+    
+}
+
+.li{
+    font-family: 'Mingzat', sans-serif;
+    font-size: 14px;
+    color: black;
+}
+
+.Background-black{
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mingzat', sans-serif;
+}
